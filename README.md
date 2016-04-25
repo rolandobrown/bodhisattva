@@ -10,19 +10,22 @@ This will be a basic open source Rails App that:
 
 - c. makes it easy for peacemakers, healers, restorers, storytellers, singers, musicians and lovers of all kind to contribute to the advancement of the art, mantras, songs, practices, etc. that may come from making and sharing this project.
 
+!["Terminal First Commit // 2016, Rolando Brown // !collected](https://raw.githubusercontent.com/rolandobrown/bodhisattva/master/lib/art/terminal_first_commit_rolandobrown_25Apr16.png)
+
 [] Complete
 - 1. Create simple Human model (to begin)
 - 2. Write basic song and piano arrangement singers and musicians
 - 3. Write the first line of story for "The Helpers" for the storytellers: lib/stories/the_helpers.rb  [https://github.com/rolandobrown/bodhisattva/lib/stories/the_helpers.rb]
 - 4. Write the first line of a story about the "Echo," for those who want to offer feedback: lib/stories/echoes.rb [https://github.com/rolandobrown/bodhisattva/lib/stories/echoes.rb]
+- 5. Add first artwork
 
 [] Pending
-- 5. Write basic story about a future state where the generation of bodhicitta can be accelerated in some cases by the proper application of computer technology
-- 6. Actually, create a rails app
-- 7. Implement architecture for TDD (BDD)
-- 8. Give Human ability to take arguments and agreements into basic methods
-- 9. Program :bodhisattva model
-- 10. Program :helper role model
+- 6. Write basic story about a future state where the generation of bodhicitta can be accelerated in some cases by the proper application of computer technology
+- 7. Actually, create a rails app
+- 8. Implement architecture for TDD (BDD)
+- 9. Give Human ability to take arguments and agreements into basic methods
+- 10. Program :bodhisattva model
+- 11. Program :helper role model
 - 12. Give Human ability to go from being a Human to being Helper, to being a Bodhisattva
 - 13. Write actually vocal arrangement and sheet music for song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
 - 14. Advance structural integrity of the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
