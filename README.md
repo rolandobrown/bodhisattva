@@ -20,6 +20,14 @@ General goals for building these types of digital art projects:
 
 - **z**. The encouraging of people who “write code” and those who “right hearts” to work together.
 
+**Why Gitub?**
+
+It's an example of a practice using Github to support the iteration of some songs and apps, in public, via a resource that supports version control and undeniable history of contributions.
+
+It doesn't have to be perfect. It just has to be created, and pushed. Then recreated and pushed again.
+
+**TODO**
+
 [] Complete
 - 1. ~~Create simple Human model (to begin)~~
 - 2. ~~Write basic song and piano arrangement singers and musicians~~
