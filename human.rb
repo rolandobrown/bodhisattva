@@ -20,14 +20,14 @@ class Human << ActiveRecord:Base
       For your help."
     end
 
-    def help (number_of_requests)
-       time_as_number.loop do
+    def help(number_of_requests)
+      number_of_requests.times do
            "Help."
         end
     end
 
     def choice(capacity_to_respond)
-       capacity_to_respond.loop do
+       capacity_to_respond.times do
             "I'll help."
        end
     end
