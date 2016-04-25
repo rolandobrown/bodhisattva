@@ -29,18 +29,18 @@ General goals for building these types of digital art projects:
 - 6. ~~Add attributions for song~~ [lib/songs/Human_has_many_helpers_through_bodhisattvas.txt](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.txt)
 
 [] Pending
-- 6. Make it easier for non coders to offer feedback to this project (form?)
-- 7. Write basic story about a future state where the generation of bodhicitta can be accelerated in some cases by the proper application of computer technology
-- 8. Actually, create a rails app
-- 9. Implement architecture for TDD (BDD)
-- 10. Give Human ability to take arguments and agreements into basic methods
-- 11. Program :bodhisattva model
-- 12. Program :helper role model
-- 13. Give Human ability to go from being a Human to being Helper, to being a Bodhisattva
-- 14. Write actually vocal arrangement and sheet music for song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
-- 15. Advance structural integrity of the song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
-- 16. Add layers and harmonies to the song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
-- 17. Increase speed of Song Playback from Github
+- 7. Make it easier for non coders to offer feedback to this project (form?)
+- 8. Write basic story about a future state where the generation of bodhicitta can be accelerated in some cases by the proper application of computer technology
+- 9. Actually, create a rails app
+- 10. Implement architecture for TDD (BDD)
+- 11. Give Human ability to take arguments and agreements into basic methods
+- 12. Program :bodhisattva model
+- 13. Program :helper role model
+- 14. Give Human ability to go from being a Human to being Helper, to being a Bodhisattva
+- 15. Write actually vocal arrangement and sheet music for song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
+- 16. Advance structural integrity of the song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
+- 17. Add layers and harmonies to the song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
+- 18. Increase speed of Song Playback from Github
 
 Contributors:
 
