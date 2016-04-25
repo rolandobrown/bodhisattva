@@ -6,28 +6,27 @@ A digital art project intended to enhearten both the people who "write code" and
 
 This will be a basic open source Rails App that:
 
-- a. includes some of the basic methods of that artfully models the capacities of anyone "who, motivated by great compassion, has generated bodhicitta, which is a spontaneous wish to attain Buddhahood for the benefit of all sentient beings"
+- **a**. includes some of the basic methods of that artfully models the capacities of anyone "who, motivated by great compassion, has generated bodhicitta, which is a spontaneous wish to attain Buddhahood for the benefit of all sentient beings."
 
-- b. makes it easy for programmers and engineers to contribute to the advancement of this code base
+- **b**. makes it easy for programmers and engineers to contribute to the advancement of this code base.
 
-- c. makes it easy for peacemakers, healers, restorers, storytellers, singers, musicians and lovers of all kind to contribute to the advancement of the art, mantras, songs, practices, etc. that may come from making and sharing this project.
+- **c**. makes it easy for peacemakers, healers, restorers, storytellers, singers, musicians and lovers of all kind to contribute to the advancement of the art, mantras, songs, practices, etc. that may come from making and sharing this project.
 
 General goals for building these types of digital art projects:
 
-- x. The very specific and collaborative building of apps and songs that go together.
+- **x**. The very specific and collaborative building of apps and songs that go together.
 
-- y. The making of apps that are specific to how one experiences and contributes to a song.
+- **y**. The making of apps that are specific to how one experiences and contributes to a song.
 
-- z. The encouraging of people who “write code” and those who “right hearts” to work together.
-
+- **z**. The encouraging of people who “write code” and those who “right hearts” to work together.
 
 [] Complete
-- 1. Create simple Human model (to begin)
-- 2. Write basic song and piano arrangement singers and musicians
-- 3. Write the first line of story for "The Helpers" for the storytellers: lib/stories/the_helpers.rb  [https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb]
-- 4. Write the first line of a story about the "Echo," for those who want to offer feedback: lib/stories/echoes.rb [https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb]
-- 5. Add first artwork
-- 6. Add attributions for song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.txt [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.txt]
+~~- 1. Create simple Human model (to begin)~~
+~~- 2. Write basic song and piano arrangement singers and musicians~~
+~~- 3. Write the first line of story for "The Helpers" for the storytellers: [lib/stories/the_helpers.rb](https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb)~~
+~~- 4. Write the first line of a story about the "Echo," for those who want to offer feedback: [lib/stories/echoes.rb] (https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb)~~
+~~- 5. Add first artwork~~
+~~- 6. Add attributions for song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.txt] (https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.txt)~~
 
 [] Pending
 - 6. Write basic story about a future state where the generation of bodhicitta can be accelerated in some cases by the proper application of computer technology
@@ -37,9 +36,9 @@ General goals for building these types of digital art projects:
 - 10. Program :bodhisattva model
 - 11. Program :helper role model
 - 12. Give Human ability to go from being a Human to being Helper, to being a Bodhisattva
-- 13. Write actually vocal arrangement and sheet music for song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
-- 14. Advance structural integrity of the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
-- 15. Add layers and harmonies to the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
+- 13. Write actually vocal arrangement and sheet music for song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3] (https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
+- 14. Advance structural integrity of the song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3] (https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
+- 15. Add layers and harmonies to the song located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3] (https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3)
 - 16. Increase speed of Song Playback from Github
 
 Contributors:
