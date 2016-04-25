@@ -23,10 +23,10 @@ General goals for building these types of digital art projects:
 [] Complete
 - 1. ~~Create simple Human model (to begin)~~
 - 2. ~~Write basic song and piano arrangement singers and musicians~~
-- 3. ~~Write the first line of story for "The Helpers" for the storytellers:~~[lib/stories/the_helpers.rb](https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb)
+- 3. ~~Write the first line of story for "The Helpers" for the storytellers:~~ [lib/stories/the_helpers.rb](https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb)
 - 4. ~~Write the first line of a story about the "Echo," for those who want to offer feedback:~~ [lib/stories/echoes.rb](https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb)
 - 5. ~~Add first artwork~~
-- 6. ~~Add attributions for song~~ located in [lib/songs/Human_has_many_helpers_through_bodhisattvas.txt](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.txt)
+- 6. ~~Add attributions for song~~ [lib/songs/Human_has_many_helpers_through_bodhisattvas.txt](https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.txt)
 
 [] Pending
 - 6. Make it easier for non coders to offer feedback to this project (form?)
