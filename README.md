@@ -15,9 +15,10 @@ This will be a basic open source Rails App that:
 [] Complete
 - 1. Create simple Human model (to begin)
 - 2. Write basic song and piano arrangement singers and musicians
-- 3. Write the first line of story for "The Helpers" for the storytellers: lib/stories/the_helpers.rb  [https://github.com/rolandobrown/bodhisattva/lib/stories/the_helpers.rb]
-- 4. Write the first line of a story about the "Echo," for those who want to offer feedback: lib/stories/echoes.rb [https://github.com/rolandobrown/bodhisattva/lib/stories/echoes.rb]
+- 3. Write the first line of story for "The Helpers" for the storytellers: lib/stories/the_helpers.rb  [https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb]
+- 4. Write the first line of a story about the "Echo," for those who want to offer feedback: lib/stories/echoes.rb [https://github.com/rolandobrown/bodhisattva/blob/master/lib/stories/echoes.rb]
 - 5. Add first artwork
+- 6. Add attributions for song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.txt [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.txt]
 
 [] Pending
 - 6. Write basic story about a future state where the generation of bodhicitta can be accelerated in some cases by the proper application of computer technology
@@ -27,9 +28,10 @@ This will be a basic open source Rails App that:
 - 10. Program :bodhisattva model
 - 11. Program :helper role model
 - 12. Give Human ability to go from being a Human to being Helper, to being a Bodhisattva
-- 13. Write actually vocal arrangement and sheet music for song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
-- 14. Advance structural integrity of the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
-- 15. Add layers and harmonies to the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
+- 13. Write actually vocal arrangement and sheet music for song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
+- 14. Advance structural integrity of the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
+- 15. Add layers and harmonies to the song located in lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3 [https://github.com/rolandobrown/bodhisattva/blob/master/lib/songs/Human_has_many_helpers_through_bodhisattvas.mp3]
+- 16. Increase speed of Song Playback from Github
 
 Contributors:
 
